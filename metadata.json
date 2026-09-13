@@ -1,0 +1,6 @@
+{
+  "name": "Brother Toss Book",
+  "description": "Brother Toss Book sports exchange and toss book with instant deposit QR, withdrawals, real-time odds, admin dashboard, 2FA security, and bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
